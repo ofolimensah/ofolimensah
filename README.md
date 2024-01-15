@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ofolimensah
-- 👀 I’m a physician interested in coding.
+
 
 
 <!---
